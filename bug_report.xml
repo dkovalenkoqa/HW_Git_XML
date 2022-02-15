@@ -1,1 +1,6 @@
-
+<?xml version="1.0"?>
+<bug_reports>
+    <email verbose="true" user_submission="true" />
+    <json user_submission="false" directory="/tmp/reports/" />
+    <sentry user_submission="false"/>
+</bug_reports>
