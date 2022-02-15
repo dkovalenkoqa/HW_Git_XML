@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<book category="WEB">
+   <title lang="en">Learning XML</title>
+   <terminal>Terminal</terminal>
+   <git_hub>Git Hub</git_hub>
+   <postman>Postman</postman>
+   <sql>SQL</sql>
+   <jmeter>Jmeter</jmeter>
+</book>

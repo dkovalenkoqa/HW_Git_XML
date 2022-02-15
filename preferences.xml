@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<book category="WEB">
+   <title lang="en">Learning XML</title>
+   <fav_movie>Interstellar</fav_movie>
+   <fav_series>Game of Thrones</fav_series>
+   <fav_food>Spaghetti</fav_food>
+   <fav_season>Summer</fav_season>
+   <country>Switzerland</country>
+</book>
