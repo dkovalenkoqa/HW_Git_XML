@@ -63,6 +63,14 @@
   34. На веб интерфейсе создать файл bug_report.xml.
   35. Сделать Commit changes (сохранить) изменения на веб интерфейсе.
   36. На веб интерфейсе модифицировать файл bug_report.xml, добавить баг репорт в формате XML.
+       ```
+       <?xml version="1.0"?>
+          <bug_reports>
+              <email verbose="true" user_submission="true" />
+              <json user_submission="false" directory="/tmp/reports/" />
+              <sentry user_submission="false"/>
+          </bug_reports>
+       ```
   37. Сделать Commit changes (сохранить) изменения на веб интерфейсе.
   38. Синхронизировать внешний и локальный репозиторий XML
 
