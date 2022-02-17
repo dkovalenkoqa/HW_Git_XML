@@ -57,7 +57,7 @@
           </book>
        ```
   32. Сделать коммит в одну строку.
-       > git commit -a -m "add preferences.xml skills.xml"
+       > git add . && git commit -m "add preferences.xml skills.xml"
   33. Отправить сразу 2 файла на внешний репозиторий.
        > git push
   34. На веб интерфейсе создать файл bug_report.xml.
